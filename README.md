@@ -1,0 +1,2 @@
+# docker_postgresql
+PostgreSQLをDockerfileで作るサンプル
